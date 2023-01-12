@@ -1,0 +1,43 @@
+body {
+  padding: 20px;
+  background-color: #080404;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+.prompts {
+  position: fixed;
+  left: 40%;
+  text-align: right;
+}
+
+input,
+textarea {
+  background-color: #212121;
+  border-color: #333333;
+  color: white;
+}
+
+button {
+  background-color: #818181;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #74a3e4;
+}
+
+a:visited {
+  color: #b27de6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
